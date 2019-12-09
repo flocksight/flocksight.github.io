@@ -1,5 +1,5 @@
 # flocksight.github.io
-<img src="card.png">
+<img src="card.png" width="140">
 
 <hr>
 You make data.  We make sense.
