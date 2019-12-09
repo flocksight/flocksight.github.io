@@ -1,9 +1,11 @@
 # flocksight.github.io
 <img src="https://github.com/flocksight/flocksight.github.io/blob/master/card.png">
 
-<br>
+<hr>
 You make data.  We make sense.
 
-<br>
-<li> Free Data Evaluation
+<hr>
+<li> Free data evaluation
 <li> Identify and address business model inefficiencies
+<li> Process Automation and monitoring
+<li> Real time predictions
