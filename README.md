@@ -10,6 +10,9 @@
 <email>chart.tool@yahoo.com</email>
 </author>
 <br>
-[Contact](mailto:chart.tool@yahoo.com?subject=inquiry)
 
-
+<form action="https://formspree.io/xdokjedv" method="POST">
+<input type="text" name="name">
+<input type="email" name="_replyto">
+<input type="submit" value="Send">
+</form>
