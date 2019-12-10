@@ -1,4 +1,3 @@
-# Flocksight
 <img src="card2_t.png" width="240"> 
 # You Make Data - We Make Sense
 <hr>
