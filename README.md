@@ -12,7 +12,7 @@ Be in touch!
 <br><label> email: <input type="text" name="_replyto"> </label>
 <button type="submit">Send</button>
 <br>
-<label> message: <textarea name="message" cols="15" rows="40"></textarea> </label>
+<label> message: <textarea name="message" cols="18" rows="8"></textarea> </label>
 <!-- your other form fields go here -->
 <br>
 </form>
