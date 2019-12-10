@@ -5,7 +5,7 @@
 <li> Identify and address business model inefficiencies
 <li> Process Automation and monitoring
 <li> Real time predictions
+<br>
 <author>
-<name>Hank Quinlan</name>
-<email>hankquinlanhub@gmail.com</email>
+<email>chart.tool@yahoo.com</email>
 </author>
