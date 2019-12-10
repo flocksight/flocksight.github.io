@@ -9,3 +9,7 @@
 <author>
 <email>chart.tool@yahoo.com</email>
 </author>
+<br>
+[Contact](mailto:chart.tool@yahoo.com?subject=inquiry)
+
+
