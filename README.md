@@ -4,7 +4,7 @@
 <hr>
 <li> Free data evaluation
 <li> Identify and address business model inefficiencies
-<li> Process Automation and monitoring
+<li> Process automation and monitoring
 <li> Real time predictions
 <br>
 <hr>
