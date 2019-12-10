@@ -6,26 +6,19 @@
 <li> Process Automation and monitoring
 <li> Real time predictions
 <br>
-<author>
-<email>chart.tool@yahoo.com</email>
-</author>
-<br>
-
 <form action="https://formspree.io/xdokjedv" method="POST">
 <input type="text" name="name">
 <input type="email" name="_replyto">
 <input type="submit" value="Send">
 </form>
 
+<hr>
+Be in touch!
+<br>
 <form action="https://formspree.io/xdokjedv" method="POST" >
-<label>
-Your email:
-<input type="text" name="_replyto">
-</label>
-<label>
-Your message:
-<textarea name="message"></textarea>
-</label>
+<br><label> Your Name: <input type="text" name="name"> </label>
+<br><label> Your email: <input type="text" name="_replyto"> </label>
+<br><label> Your message: <textarea name="message"></textarea> </label>
 <!-- your other form fields go here -->
-<button type="submit">Send</button>
+<br><button type="submit">Send</button>
 </form>
