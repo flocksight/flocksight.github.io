@@ -18,4 +18,3 @@ Find out what's possible
 <!-- your other form fields go here -->
 <br>
 </form>
-*Serving Southern California in the flesh, and everyone else however possible*
