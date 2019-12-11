@@ -10,7 +10,7 @@
 <hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
 Find out what's possible
-<br><label> email: <input type="text" name="_replyto"> </label>
+<br><label> email: <input type="text" name="_replyto" cols=20> </label>
 <button type="submit">Send</button>
 <br>
 <label> <textarea name="message" cols="32" rows="8"></textarea> </label>
