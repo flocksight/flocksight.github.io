@@ -1,6 +1,7 @@
 <br>
 <img src="card3_t.png" width="240"> 
 # You Make Data - We Make Sense
+<i>Serving Southern California in the flesh, and everyone else however possible</i>
 <hr>
 <li> Free data evaluation
 <li> Identify and address business model inefficiencies
