@@ -2,7 +2,7 @@
 <img src="card3_t.png" width="240"> 
 # You Make Data - We Make Sense
 <hr>
-<li> Free data evaluation
+<li> Free data evaluation --
 <li> Identify and address business model inefficiencies
 <li> Process automation and monitoring
 <li> Real time predictions
@@ -10,7 +10,7 @@
 <hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
 Find out what's possible
-<br><label> email: <input type="text" name="_replyto" cols="20"> </label>
+<br><label> email: <input type="text" name="_replyto" cols="40"> </label>
 <button type="submit">Send</button>
 <br>
 <label> <textarea name="message" cols="32" rows="8"></textarea> </label>
