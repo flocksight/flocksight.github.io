@@ -18,6 +18,7 @@ Small data / Big data - Everything has its uses
 <hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
 Find out what's possible. Get in touch for a free data evaluation.
+<img style="float: right;" src="card3_t.png">
 <br><label> email: <input type="text" name="_replyto"> </label>
 <button type="submit">Send</button>
 <br>
