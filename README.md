@@ -1,5 +1,5 @@
 <br>
-<img src="card4_t.png" width="240"> 
+<img src="card4_t.png" width="340"> 
 # You Make Data - We Make Sense
 <i>Serving Southern California in the flesh, and everyone else however possible</i>
 <hr>
