@@ -26,3 +26,4 @@ Find out what's possible. Get in touch for a free data evaluation.
 <!-- your other form fields go here -->
 <br>
 </form>
+| some text | <img src="card4_t.png" width="34">
