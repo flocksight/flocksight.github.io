@@ -28,3 +28,5 @@ Dare to reach out for a free data evaluation
 </form>
 <br>local region: Temecula, Murrieta, San Diego, Riverside
 <br>key phrases: Machine Learning, Data Science, Software Development, Strategy Consulting
+|local region:| Temecula, Murrieta, San Diego, Riverside|
+|key phrases:| Machine Learning, Data Science, Software Development, Strategy Consulting|
