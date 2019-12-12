@@ -7,10 +7,12 @@
 <li> Automation and monitor critical processes
 <li> Get real time predictions and decision support
 <li> Improve internal and external communication
+[machine learning/deep learning/NLP/]
 <br>
 <hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
-Find out what's possible.  Get in touch for a free data evaluation.
+Find out what's possible.  
+<br>Get in touch for a free data evaluation.
 <br><label> email: <input type="text" name="_replyto"> </label>
 <button type="submit">Send</button>
 <br>
