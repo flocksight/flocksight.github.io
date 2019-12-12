@@ -17,7 +17,7 @@ Small data / Big data - Everything has its uses
 <li> Find out how even small data can help you ask better questions
 <hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
-<img style="float: right;" src="flocksight_headshot.jpeg" width="182">
+<img style="float: right;" src="flocksight_headshot.jpeg" width="162">
 Dare to reach out for a free data evaluation.
 <br><label> email: <input type="text" name="_replyto"> </label>
 <button type="submit">Send</button>
