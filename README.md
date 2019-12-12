@@ -3,19 +3,19 @@
 # You Make Data - We Make Sense
 <i>Serving Southern California in the flesh, and everyone else however possible</i>
 <hr>
+Levarege all your data [language / images / numbers] to:
 <li> Identify and address business model inefficiencies
 <li> Automation and monitor critical processes
 <li> Get real time predictions and decision support
 <li> Improve internal and external communication
-<hr>
-Levarege all your data [language / images / numbers] to:
 <li> Improve customer satisfaction
 <li> Identify new markets
 <li> Cut costs
 <hr>
 Small data can have a big impact
-<li> Client and supplier communications can yield insight
+<li> Every problem is unique, and so is the data that can solve it
 <li> Ask about regional data sharing
+<hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
 Find out what's possible. Get in touch for a free data evaluation.
 <br><label> email: <input type="text" name="_replyto"> </label>
