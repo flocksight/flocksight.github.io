@@ -18,7 +18,7 @@ Small data / Big data - Everything has its uses
 <hr>
 <form action="https://formspree.io/xdokjedv" method="POST" >
 <img style="float: right;" src="flocksight_headshot.jpeg" width="132">
-Dare to reach out for a free data evaluation.
+Dare to reach out for a free data evaluation
 <br><label> email: <input type="text" name="_replyto"> </label>
 <button type="submit">Send</button>
 <br>
@@ -27,3 +27,4 @@ Dare to reach out for a free data evaluation.
 <br>
 </form>
 local region: Temecula, Murrieta, San Diego, Riverside
+keywords: Machine Learning, Data Science, Software Development, Strategy Consulting
