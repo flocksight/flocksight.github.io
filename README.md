@@ -26,4 +26,4 @@ Dare to reach out for a free data evaluation.
 <!-- your other form fields go here -->
 <br>
 </form>
-##### local region: Temecula, Murrieta, San Diego, Riverside
+local region: Temecula, Murrieta, San Diego, Riverside
