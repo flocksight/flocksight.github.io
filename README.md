@@ -5,14 +5,14 @@
 <hr>
 Levarege all your data [ language / images / numbers ] to:
 <li> Identify and address business model inefficiencies
-<li> Automation and monitor critical processes
 <li> Get real time predictions and decision support
 <li> Improve internal and external communication
+<li> Automate and monitor critical processes
 <li> Improve customer satisfaction
 <li> Identify new markets
 <li> Cut costs
 <hr>
-Small data / Big data - everything has its uses
+Small data / Big data - Everything has its uses
 <li> Ask about regional data sharing
 <li> Find out how even small data can help you ask better questions
 <hr>
