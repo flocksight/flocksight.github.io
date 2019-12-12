@@ -8,11 +8,14 @@
 <li> Get real time predictions and decision support
 <li> Improve internal and external communication
 <hr>
-li> Levarege all your data [language / images / numbers] to:
+Levarege all your data [language / images / numbers] to:
 <li> Improve customer satisfaction
 <li> Identify new markets
 <li> Cut costs
 <hr>
+Small data can have a big impact
+<li> Client and supplier communications can yield insight
+<li> Ask about regional data sharing
 <form action="https://formspree.io/xdokjedv" method="POST" >
 Find out what's possible. Get in touch for a free data evaluation.
 <br><label> email: <input type="text" name="_replyto"> </label>
