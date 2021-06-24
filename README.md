@@ -13,16 +13,14 @@ Levarege all your data [ language / images / numbers ] to:
 <hr>
 Small data / Big data - Everything has its uses
 <hr>
+  
 <form action="https://formspree.io/xdokjedv" method="POST" >
 Reach out for a free data evaluation
-  <hr>
-
-<br><label> email: <input type="text" name="_replyto"> </label>
+<br>
+<label> email: <input type="text" name="_replyto"> </label>
 <button type="submit">Send</button>
 <br>
 <label> <textarea name="message" cols="32" rows="8"></textarea> </label>
 <!-- your other form fields go here -->
 <br>
 </form>
-<br>local region: Temecula, Murrieta, San Diego, Riverside
-<br>key phrases: Machine Learning, Data Science, Software Development, Strategy Consulting
